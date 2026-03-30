@@ -12,7 +12,7 @@ class Student{
 }
 public class class_object {
     public static void main(String[] args) {
-        Student st= new Student();
+        Student st= new Student();// INSTANCETION AND OBJECT CREATION ARE SAME
         st.studying();
         st.playing();
     }
