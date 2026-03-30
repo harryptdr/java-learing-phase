@@ -24,7 +24,7 @@ public class basic {
 
         System.out.println(set);
 
-        // hashset does not consider a index print vai loop always use for each loop
+        // hashset does not consider  index print vai loop always use for each loop
 
         for(int ele: set){
             System.out.print(ele+" ");
