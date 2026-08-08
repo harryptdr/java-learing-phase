@@ -18,6 +18,7 @@ public class creation {
         b.next=c;//10,20,30
         c.next=d;//10,20,30,40
         d.next=e;//10,20,30,40,50
+        System.out.print(a.val);
 
     }
 }
